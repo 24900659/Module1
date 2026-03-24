@@ -22,11 +22,6 @@ else:
 ## Output
 <img width="596" height="403" alt="image" src="https://github.com/user-attachments/assets/da3a4446-b3b3-4afc-b7ac-12c4ed8039c7" />
 
-##Result
-Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
-
-
-
 ## Result
-<img width="559" height="342" alt="image" src="https://github.com/user-attachments/assets/1bd5d55a-ac80-497d-bd5f-b9035d04cde4" />
+Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
 
