@@ -12,8 +12,6 @@ To write a Python program to check whether the given number is **even** or **odd
 5. End the program.
 
 ## 🧾 Program
-
-## Output
 ```
 num = int(input())
 if num%2==0:
@@ -21,6 +19,12 @@ if num%2==0:
 else:
     print("ODD")
 ```
+## Output
+<img width="596" height="403" alt="image" src="https://github.com/user-attachments/assets/da3a4446-b3b3-4afc-b7ac-12c4ed8039c7" />
+
+##Result
+Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
+
 
 
 ## Result
